@@ -7,6 +7,6 @@ El notebook para la clase es el llamado `algebra.ipynb`
 
 pip install numpy
 
-pip install opencv-python
+pip install opencv-python 
 
 
